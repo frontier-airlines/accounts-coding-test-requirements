@@ -5,7 +5,7 @@
 
 - Read requirement documents provided.
 - Create a simple solution that satisfies acceptance criteria.
-- Use either Vue.js or ASP.NET Mvc to complete this challenge.
+- Use either vue.js, jQuery, vanilla JavaScript, ASP.NET, or .NET core to complete this challenge.
 
 
 ## Pointers
