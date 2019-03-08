@@ -1,7 +1,5 @@
 # Frontier Coding Test - Display Sorted Account Info
 
------
-
 ## Purpose
 
 The business needs a view that displays user accounts by status.
