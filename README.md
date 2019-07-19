@@ -20,7 +20,7 @@
 ## File Structure
 
 - accounts-coding-test-requirements
-  - api-documentation.md - contains information on REST endpoint wheredata can be retrieved
+  - api-documentation.md - contains information on REST endpoint where data can be retrieved
   - README.md - contains overall instruction
   - template.html - contains front end template to display data
   - user-story.md - contains business requirements and acceptance criteria
