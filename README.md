@@ -5,7 +5,10 @@
 
 - Read requirement documents provided.
 - Create a simple solution that satisfies acceptance criteria.
-- Use either vue.js, jQuery, vanilla JavaScript, ASP.NET, or .NET core to complete this challenge.
+- Use either Vue.js or .NET core to complete this challenge.
+
+[Vue Docs](https://vuejs.org/)
+[Microsoft Docs](https://docs.microsoft.com/en-us/aspnet/core)
 
 
 ## Pointers
