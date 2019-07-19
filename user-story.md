@@ -38,7 +38,7 @@ A template for the view has been provided, this template can be modified to fit 
 
 ## Acceptance Criteria
 
-- Solution is written in vue.js, jQuery, vanilla JavaScript, ASP.NET, or .NET core.
+- Solution is written in vue.js or .NET core.
 - Accounts appear in the correct column by status
 - All 7 Mock Data accounts appear
 - Dates, Names, Amounts and Phone Numbers are formatted correctly
