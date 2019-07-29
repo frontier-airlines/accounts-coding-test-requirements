@@ -27,7 +27,7 @@ A template for the view has been provided, this template can be modified to fit 
 ## Developer Notes
 
 - Provided template seems to have issues if the content in the lists overflow into the footer. This is not in the acceptance criteria, but is marked as a known issue. If time permits, this is a nice to have fix. 
-- This solution should be completed in either vue.js or .NET core.
+- This solution should be completed in either vue.js, angular(v2+), react, or .NET core.
 
 ## Known  Issues
 
@@ -38,7 +38,7 @@ A template for the view has been provided, this template can be modified to fit 
 
 ## Acceptance Criteria
 
-- Solution is written in vue.js or .NET core.
+- Solution is written in vue.js, angular(v2+), react or .NET core.
 - Accounts appear in the correct column by status
 - All 7 Mock Data accounts appear
 - Dates, Names, Amounts and Phone Numbers are formatted correctly
