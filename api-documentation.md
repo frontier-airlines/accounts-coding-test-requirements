@@ -1,6 +1,8 @@
 # Accounts Endpoint
 
-**URL:** https://frontiercodingtests.azurewebsites.net/api/accounts/getall
+**Repository:** [https://github.com/frontier-airlines/accounts-coding-test-backend](https://github.com/frontier-airlines/accounts-coding-test-backend)
+
+**URL:** [https://frontiercodingtests.azurewebsites.net/api/accounts/getall](https://frontiercodingtests.azurewebsites.net/api/accounts/getall)
 
 **HTTP Actions:** GET
 
@@ -32,14 +34,14 @@ HTTP Status: 200
 ```csharp
 enum AccountStatuses
 {
-	Active,
-	Inactive,
-	Overdue
+    Active,
+    Inactive,
+    Overdue
 }
 ```
 
-**Specifications:** 
+**Specifications:**
 
 - C#
-- .NET Core 2.1
-- Azure Function v2
+- .NET Core 3.1
+- Azure Function v3
