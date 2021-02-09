@@ -10,7 +10,7 @@
 
 - Read requirement documents provided.
 - Create a simple solution that satisfies acceptance criteria.
-- Use either Vue.js, angular(v2+), react or .NET core to complete this challenge.
+- Use either Vue.js, angular(v2+), react, .NET core or .NET 5 to complete this challenge.
   - [Vue Docs](https://vuejs.org/)
   - [Microsoft Docs](https://docs.microsoft.com/en-us/aspnet/core)
   - [Angular.io](https://angular.io/docs)
