@@ -1,5 +1,7 @@
 # Accounts Coding Challenge
 
+> Create a client application that consumes the hosted api endpoint at: [https://frontiercodingtests.azurewebsites.net/api/accounts/getall](https://frontiercodingtests.azurewebsites.net/api/accounts/getall) and displays the data in accordance with the requirements documents provided.
+
 ## Backend Repository
 
 > [https://github.com/frontier-airlines/accounts-coding-test-backend](https://github.com/frontier-airlines/accounts-coding-test-backend)
