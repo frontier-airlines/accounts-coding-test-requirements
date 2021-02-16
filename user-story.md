@@ -10,7 +10,7 @@ The new accounts view will display user accounts sorted by status. The view will
 
 ## Scope
 
-A template for the view has been provided, this template can be modified to fit the template engine of the framework generating the view. Responsive design is handled in another unassigned user story, this functionality can be implemented in this story if time permits. The business asks that this user story is time boxed to 1 hour.
+A template for the view has been provided, this template can be modified to fit the template engine of the framework generating the view. Responsive design is handled in another unassigned user story, this functionality can be implemented in this story if time permits. 
 
 ## Marketing Notes
 
